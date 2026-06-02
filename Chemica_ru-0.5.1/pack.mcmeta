@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "description": "Мой перевод Майнкрафт",
+    "language": {
+        "ru_ru": {
+        "name": "Russian",
+        "region": "Russia",
+        "bidirectional": false
+        }
+    }
+  }
+}
